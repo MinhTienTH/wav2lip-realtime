@@ -1,0 +1,9 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+opencv-python==4.5.3.56
+numpy==1.21.2
+torch==1.9.0
+torchvision==0.10.0
+librosa==0.8.1
+sounddevice==0.4.2
+python-multipart==0.0.5
