@@ -56,4 +56,4 @@ Ensure you have these dependencies listed in your `requirements.txt` file.
 
 ## Dockerfile
 
-To run the module inside a Docker container, you can use the following Dockerfile:
+To run the module inside a Docker container, you can use the following Dockerfile.
